@@ -52,19 +52,6 @@
 
 ##acctrancefore
 
-## Registeration Form
-![2](https://github.com/user-attachments/assets/9dde878a-4d3d-4bf9-838b-40bc787882a5)
-## Login Form
-![3](https://github.com/user-attachments/assets/fe8f3704-9859-4e51-93ba-e36714d7de56)
-
-## Room creation
-![4](https://github.com/user-attachments/assets/db0e76f7-9af6-4ed3-9849-222ebd0e516c)
-
-## User1 interface
-![5](https://github.com/user-attachments/assets/48be87c8-ef63-461b-8423-e1d65888d8c2)
-
-## User2 interface
-![6](https://github.com/user-attachments/assets/b50334e4-3a50-4e50-94b5-f8f4f07185cf)
 
 ## Thank You
 
