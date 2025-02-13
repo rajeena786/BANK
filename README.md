@@ -41,6 +41,7 @@
 ## Home Page
 ![Image](https://github.com/user-attachments/assets/c6d7d870-7465-44dc-b9f1-7cb992ff1dba)
 ##account creation
+![Image](https://github.com/user-attachments/assets/23869b38-f7dc-4e36-b696-2156405ff9ee)
 
 ##pin genarations
 
