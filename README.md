@@ -40,7 +40,19 @@
 
 ## Home Page
 ![Image](https://github.com/user-attachments/assets/c6d7d870-7465-44dc-b9f1-7cb992ff1dba)
+##account creation
+![Image](https://github.com/user-attachments/assets/c6d7d870-7465-44dc-b9f1-7cb992ff1dba)
+##pin genarations
+![Image](https://github.com/user-attachments/assets/c6d7d870-7465-44dc-b9f1-7cb992ff1dba)
+##available balance
+![Image](https://github.com/user-attachments/assets/c6d7d870-7465-44dc-b9f1-7cb992ff1dba)
+##depist
+![Image](https://github.com/user-attachments/assets/c6d7d870-7465-44dc-b9f1-7cb992ff1dba)
+##withdraw
+![Image](https://github.com/user-attachments/assets/83fb800a-4aa7-4cfd-9aa1-8ff95c5091ef)
 
+##acctrancefore
+![Image](https://github.com/user-attachments/assets/83fb800a-4aa7-4cfd-9aa1-8ff95c5091ef)
 
 
 ## Registeration Form
