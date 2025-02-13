@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/index.css' %}">
+</head>
+<body>
+ 
+  <center id="d1"> welcome to probank</center> <br>
+   <!-- <h1 id="d1">welcome to probank </h1> -->
+   <div  id="image">
+    <div>
+        <img src="{% static 'images/bank1.png' %}" alt="">
+       <a href="{% url 'create' %}"> <h1>account creation </h1></a>
+    </div>
+    <div> 
+        <img src="{% static 'images/bank2.png' %}" alt="">
+        <a href="{% url 'pin' %}"> <h1>pin generations </h1></a>
+    </div>
+      <div>
+        <img src="{% static 'images/bank3.jpeg' %}" alt="">
+        <a href="{% url 'balance' %}"><h1> available balance</h1> </a>                                             
+      </div>
+     
+      <div id="d2" >
+        <img src="{% static 'images/bank5.png' %}" alt="">
+        <a href="{% url 'depist' %}"><h1>depist </h1> </a>                                                              
+      </div>
+      <div id="d3" >
+        <img src="{% static 'images/bank4.png' %}" alt=""><br>
+        <a href="{% url 'withdraw' %}"><h1>withdraw </h1> </a>                                                                           
+      </div>
+      <div id="d4">
+        <img src="{% static 'images/bank6.png' %}" alt="">
+        <a href="{% url 'acctrancefore' %}"><h1>acctrancefore </h1> </a>                                                              
+      </div>
+     
+   </div>
+</body>
+</html>
+

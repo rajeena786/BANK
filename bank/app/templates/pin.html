@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/pin.css' %}">
+  
+</head>
+<body>
+    
+       
+    
+    <h1 id="d1"> pin the genarations 
+    
+    <form action="" method="post">
+        {% csrf_token %}
+       
+        <!-- <h1 id="d5"> pin the genarations </h1> -->
+        <label for="">accunt number</label>
+        <input type="number" name="account_number"><br> <br>
+
+       
+      
+        <label for=""> mobile number</label>
+        <input type="number" name="moblie"> <br> <br>
+
+       
+        <label for="">pin</label>
+        <input type="number" name="pin"> <br><br>
+       
+        
+        <label for=""> conform pin </label>
+        <input type="number" name="cpin"> <br> <br>
+       
+
+        <button type="submit">SUBMIT</button>
+    </form>
+</h1>
+</body>
+</html>

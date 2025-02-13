@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/depist.css' %}">
+  
+
+</head>
+<body>
+    <h1 id="d1">depist
+    <form action="" method="POST">
+        {% csrf_token %}
+        acc : <input type="number" name="acc" id=""> <br><br>
+        mobile : <input type="number" name="mobile" id=""> <br><br>
+        amount : <input type="number" name="amount" id=""> <br><br>
+        <button type="submit">depist</button>
+    </form>
+    {{bal}}
+</h1>
+</body>
+</html>

@@ -1,0 +1,43 @@
+
+#d1{
+      border: 2px solid;
+      background-color: orchid;
+     align-items: center;
+      height: 70px;
+      width: 1500px;
+      font-size: 60px;
+      
+    }
+    #image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    max-width: 800px;
+    margin: auto;
+    border: 2px solid;
+    height: 300px;
+    width: 900px;
+    background-color: orchid;
+    }
+    #d2{
+      border: 2px solid;
+      background-color: orchid;
+      width: 250px;
+    }
+    #d3{
+      border: 2px solid;
+      background-color: orchid;
+      width: 250px;
+    }
+    #d4{
+      border: 2px solid;
+      background-color: orchid;
+      width: 250px;
+}
+
+   
+   
+   
+

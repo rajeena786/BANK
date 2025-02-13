@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/withdraw.css' %}">
+  
+
+</head>
+<body>
+    <h1 id="d1">withdraw
+    <form action="" method="POST">
+        {% csrf_token %}
+        account number <input type="number" name="acc" id=""> <br> <br>
+        pin <input type="number" name="pin" id=""> <br><br>
+        amount <input type="number " name="amt" id=""> <br> <br>
+        <button type="submit">withdraw</button>
+
+
+
+    </form>
+</h1>
+    <h2 id="d2">avalible balance:{{bal}}</h2>
+
+</body>
+</html>

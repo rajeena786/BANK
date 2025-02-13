@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/create.css' %}">
+
+</head>
+<body>
+    <!-- <style>
+        h1{
+            border: 2px solid;
+            height: 430px;
+            width: 600px;
+            font-size: large;
+            margin-left: 550px;
+            background-color: aqua;
+            margin-top: 180px;
+            text-align: center;
+
+        }
+       
+    </style> -->
+    
+    <div class="container">
+        <h1> create the accounts
+        <form action="" method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+          
+            {{form.as_p}}  
+           
+        <button type="submit">SUBMIT</button>
+        </form>
+     </h1>
+    </div>
+  
+    
+    
+  
+</body>
+</html>
