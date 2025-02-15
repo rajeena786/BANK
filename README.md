@@ -6,12 +6,18 @@
 
  
 ## Features
-- Send  OTP for login .
-- chatting with multiple user .
-- add profile pic .
+- auto send mail when account is created, for every transactions the mail will be sent t the user
+- pin generation basic encryptin is donr
+-  deposit
+-  withdrawl
+-  acctransfer
 
   
-# TECHNOLOGIES USED 📌
+# language and tool
+- python
+- html,css and javascript
+- django
+- sqlite3
 
 ## Front End 📫
 
