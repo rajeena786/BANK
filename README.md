@@ -45,9 +45,11 @@
 # UI View
 
 ## Home Page
-![Image](https://github.com/user-attachments/assets/c6d7d870-7465-44dc-b9f1-7cb992ff1dba)
+![Image](https://github.com/user-attachments/assets/d50b93f4-791f-43c3-b51d-2c08529c326e)
 ##account creation
-![Image](https://github.com/user-attachments/assets/23869b38-f7dc-4e36-b696-2156405ff9ee)
+![Image](https://github.com/user-attachments/assets/fb159f74-096d-4d8b-9509-8570737557e6)
+
+
 
 ##pin genarations
 
