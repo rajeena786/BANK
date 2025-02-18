@@ -68,7 +68,7 @@
 ![Image](https://github.com/user-attachments/assets/da45cdcd-2d4e-410d-af33-d82f185a1916)
 
 STEPS TO SET UP THIS PROJECT
--clone this project using 
+-clone this project using https://github.com/rajeena786/BANK.git
 - instal the necessary packages
 - pip install - r requirements.txt
 - change the dir t the project
