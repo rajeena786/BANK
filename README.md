@@ -52,15 +52,27 @@
 
 
 ##pin genarations
+![Image](https://github.com/user-attachments/assets/dfb6743c-4ce1-4fb9-b1cd-794a8ee4e553)
 
 ##available balance
 
+![Image](https://github.com/user-attachments/assets/6223a61c-d16e-4c1c-9ffb-16b747b96e32)
+
 ##depist
+![Image](https://github.com/user-attachments/assets/2bc94c49-7df3-45f1-93bb-f1a8884e2aa4)
 
 ##withdraw
+![Image](https://github.com/user-attachments/assets/212c78c9-76fb-49df-b851-d35573cc3e28)
 
 ##acctrancefore
+![Image](https://github.com/user-attachments/assets/da45cdcd-2d4e-410d-af33-d82f185a1916)
 
+STEPS TO SET UP THIS PROJECT
+-clone this project using 
+- instal the necessary packages
+- pip install - r requirements.txt
+- change the dir t the project
+- python manage.py runserver
 
 ## Thank You
 
